@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=walter-cw&show_icons=true&theme=tokyonight" align='right' width="40%">
+
 ## Hi there 👋
 Walter here. I'm a software engineer, interested in everything but my speciality is web applications. Also working as instructor at [Clarusway](https://clarusway.com/) and as software engineer at [SOMEWHERE ELSE](https://somewhere.com/) 
 
